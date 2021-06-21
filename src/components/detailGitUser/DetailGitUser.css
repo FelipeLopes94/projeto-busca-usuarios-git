@@ -1,0 +1,86 @@
+
+.container_detail_user{
+    border: 6px groove white;
+    padding: 3px;
+
+}
+.container_info_user{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+ 
+ }
+ 
+.lista_info_user li{
+    font-size: 20px;
+    font-family: 'Noto Sans', sans-serif;
+}
+
+.img_avatar{
+    width: 20%;
+    border-radius: 100px;
+    cursor: pointer;
+  }
+
+.lista_repos{
+    display: flex;
+    flex-direction: column;
+
+}
+.lista_repos li{
+    font-size: 21px;
+    font-family: 'Noto Sans', sans-serif;
+    margin-top: 2%;
+}
+
+.botao_detalhes_repo{
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 10px 14px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+    border-radius: 15px;
+    width: auto;
+    float: right;
+    display: flex;
+  }
+  .botao_detalhes_repo:hover{
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+  
+  }
+  @media screen and (max-width: 560px) {
+    .img_avatar{
+        width: 60% !important;
+    }
+
+    .lista_repos li{
+        font-size: 17px;
+        margin-top: 5%;
+    }
+  }
+  @media screen and (max-width: 1060px) {
+    .container_info_user{
+        display: contents;
+     
+     }
+    
+    .img_avatar{
+        width: 40%;
+        display: flex;
+        margin: auto;
+    }
+
+    .lista_info_user{
+        text-align: left;
+        display: flex;
+        flex-direction: column;
+        align-content: center;
+        flex-wrap: wrap;
+    }
+}

@@ -1,0 +1,17 @@
+.lista_info_repo{
+    font-size: 20px;
+    font-family: 'Noto Sans', sans-serif;
+
+}
+
+.container_info_repo button{
+
+    margin-top: 5%;
+
+}
+
+.container_info_repo img{
+    display: flex;
+    margin: auto;
+    width: 10%;
+}
