@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+## Para inicializar, Rodar NPM Install, e em seguida, NPM Start
 
-Projetinho para exibir os repositorios em React Hooks
+Necessario ter o Node instalado na maquina
 
