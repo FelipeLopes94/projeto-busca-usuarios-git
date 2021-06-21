@@ -64,9 +64,9 @@ const DetailUser = props =>{
 
           <ul className="lista_info_user">
 
-            <li>número de Repositórios: {userGitData.public_repos}</li>
-            <li>número de seguidores: {userGitData.followers}</li>
-            <li>número de Seguidos: {userGitData.following}</li>
+            <li>Número de Repositórios: {userGitData.public_repos}</li>
+            <li>Número de seguidores: {userGitData.followers}</li>
+            <li>Número de Seguidos: {userGitData.following}</li>
             <li>Nome de usuário no Git: {userGitData.login}</li>
             <li>Email do usuário: {emailUser}</li>
             <li>Bio do usuário: {userGitData.bio}</li>

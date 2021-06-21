@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/projeto-busca-usuarios-git/static/css/main.1d4d9353.chunk.css",
-    "main.js": "/projeto-busca-usuarios-git/static/js/main.d7fb8462.chunk.js",
-    "main.js.map": "/projeto-busca-usuarios-git/static/js/main.d7fb8462.chunk.js.map",
+    "main.css": "/projeto-busca-usuarios-git/static/css/main.9f9c2c01.chunk.css",
+    "main.js": "/projeto-busca-usuarios-git/static/js/main.9c119fed.chunk.js",
+    "main.js.map": "/projeto-busca-usuarios-git/static/js/main.9c119fed.chunk.js.map",
     "runtime-main.js": "/projeto-busca-usuarios-git/static/js/runtime-main.61492e48.js",
     "runtime-main.js.map": "/projeto-busca-usuarios-git/static/js/runtime-main.61492e48.js.map",
     "static/js/2.809c2e02.chunk.js": "/projeto-busca-usuarios-git/static/js/2.809c2e02.chunk.js",
     "static/js/2.809c2e02.chunk.js.map": "/projeto-busca-usuarios-git/static/js/2.809c2e02.chunk.js.map",
     "index.html": "/projeto-busca-usuarios-git/index.html",
-    "static/css/main.1d4d9353.chunk.css.map": "/projeto-busca-usuarios-git/static/css/main.1d4d9353.chunk.css.map",
+    "static/css/main.9f9c2c01.chunk.css.map": "/projeto-busca-usuarios-git/static/css/main.9f9c2c01.chunk.css.map",
     "static/js/2.809c2e02.chunk.js.LICENSE.txt": "/projeto-busca-usuarios-git/static/js/2.809c2e02.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.61492e48.js",
     "static/js/2.809c2e02.chunk.js",
-    "static/css/main.1d4d9353.chunk.css",
-    "static/js/main.d7fb8462.chunk.js"
+    "static/css/main.9f9c2c01.chunk.css",
+    "static/js/main.9c119fed.chunk.js"
   ]
 }
